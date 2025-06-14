@@ -1,6 +1,6 @@
 <h1 align="center" id="title">ScoreCntr</h1>
 
-<p align="center"><img src="https://socialify.git.ci/SefBitz/ScoreCntr/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/SefBitz/ScoreCntr/image?language=1&owner=1&name=1&stargazers=1&theme=Dark" alt="project-image"></p>
 
 <p id="description">ScoreCntr is made by Sefbitz. It is a compact HTML5 CSS3 and JS Scoreboard with a customisation settings pane. With it you can change the name of teams and color background. It is fully open source and free to use.</p>
 
