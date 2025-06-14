@@ -1,3 +1,7 @@
+body {
+  height: 100vh;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -69,15 +73,19 @@
   }
 
 #settings-icon {
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top: 35vh;
+    margin-left: 49vw;
     cursor: pointer;
-    top: -100px;
+  
 }
 
 #settings-content {
-    color:#ffffff;
-    max-width: 40vw;
-    margin-left: 50px;
-    z-index: -1;
+  display: block;
+  text-align: center;
+  margin-bottom: 1000px;
+}
+svg {
+  background-color: rgb(39, 119, 84);
+  border-radius: 5px;
+  padding: 1px 1px;
 }
