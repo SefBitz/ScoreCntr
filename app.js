@@ -6,6 +6,8 @@ let teamBScore = 0;
 let teamAScoreValue = document.getElementById("teamAScore");
 let teamBScoreValue = document.getElementById("teamBScore");
 let settingsIcon = document.getElementById("settings")
+document.getElementById('settings-icon').addEventListener('click', settings);
+
 
 //Function to increment the score for a given team
 let incrementScore = (team) => {
@@ -36,8 +38,10 @@ let resetScores = () => {
   teamAScoreValue.textContent = teamAScore;
   teamBScoreValue.textContent = teamBScore;
 };
-// Setting icon styles (BY JOSEF WOOHOO)
+
+
+// Setting icon script (BY JOSEF WOOHOO)
 
 function settings() {
-
+  alert("hello")
 }
